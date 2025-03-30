@@ -1,7 +1,7 @@
 # 🌐 Core Hub - Open Source Innovation 🚀  
 
 [![Website](https://img.shields.io/badge/Visit-Website-blue?style=flat-square)](https://corehub.lol)  
-[![Discord](https://img.shields.io/discord/123456789?label=Join%20Us&logo=discord&color=5865F2)]([https://discord.gg/qTARBRGNhH](https://discord.gg/qTARBRGNhH))  
+[![Discord](https://img.shields.io/discord/123456789?label=Join%20Us&logo=discord&color=5865F2)](https://discord.gg/qTARBRGNhH)  
 
 ---  
 
