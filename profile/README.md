@@ -7,7 +7,7 @@
 
 ---  
 
-## 🔥 About Core Huub  
+## 🔥 About Core Hub  
 We are an **open-source collective** building **decentralized** and **collaborative** technologies.  
 💡 Our mission: **Empowering developers with free and transparent software.**  
 
