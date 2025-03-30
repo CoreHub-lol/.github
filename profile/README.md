@@ -54,4 +54,4 @@ We ❤️ community contributions! Here’s how to get started:
 
 ---  
 
-🚀 **Made with ❤️ by the Core Huub community. Open Source Forever!**  
+🚀 **Made with ❤️ by the Core Hub community. Open Source Forever!**  
