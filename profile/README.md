@@ -1,7 +1,7 @@
-# 🌐 Core Huub - Open Source Innovation 🚀  
+# 🌐 Core Hub - Open Source Innovation 🚀  
 
 [![Website](https://img.shields.io/badge/Visit-Website-blue?style=flat-square)](https://corehub.lol)  
-[![Discord](https://img.shields.io/discord/123456789?label=Join%20Us&logo=discord&color=5865F2)]([https://discord.gg/YOUR-DISCORD-LINK](https://discord.gg/qTARBRGNhH))  
+[![Discord](https://img.shields.io/discord/123456789?label=Join%20Us&logo=discord&color=5865F2)]([https://discord.gg/qTARBRGNhH](https://discord.gg/qTARBRGNhH))  
 
 ---  
 
@@ -10,7 +10,6 @@ We are an **open-source collective** building **decentralized** and **collaborat
 💡 Our mission: **Empowering developers with free and transparent software.**  
 
 🌍 **Website** → [corehub.lol](https://corehub.lol)  
-💻 **GitHub** → [github.com/corehuub](https://github.com/corehuub)  
 
 ---
 
@@ -40,7 +39,7 @@ We ❤️ community contributions! Here’s how to get started:
 
 ## 🛠 Tech Stack  
 
-🚀 **Languages** → JavaScript, Python, Rust, Go  
+🚀 **Languages** → JavaScript, Python, C#, Java 
 📦 **Tools** → Docker, Kubernetes, GraphQL  
 🔗 **Protocols** → Web3, IPFS, P2P Networks  
 
@@ -48,8 +47,7 @@ We ❤️ community contributions! Here’s how to get started:
 
 ## 🎉 Join Our Community  
 
-💬 **Discord** → [Join the Chat](https://discord.gg/YOUR-DISCORD-LINK)  
-🐦 **Twitter** → [Follow Us](https://twitter.com/YOUR-HANDLE)  
+💬 **Discord** → [Join the Chat](https://discord.gg/qTARBRGNhH)  
 📧 **Email** → contact@corehub.lol  
 
 ---  
