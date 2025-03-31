@@ -19,10 +19,13 @@ We are an **open-source collective** building **decentralized** and **collaborat
 
 | 🔗 Repo | 🌟 Description |
 |---------|--------------|
-| [core-framework](https://github.com/corehuub/core-framework) | A powerful open-source framework for rapid development. |
-| [hub-connect](https://github.com/corehuub/hub-connect) | Seamless integration tools for open-source collaboration. |
-| [next-gen-ui](https://github.com/corehuub/next-gen-ui) | A modern, accessible UI library for developers. |
-
+| [NullBotnet](https://github.com/CoreHub-lol/NullBotnet) | C# Botnet Base Project |
+| [WebScraperApp](https://github.com/CoreHub-lol/website-scrapper) | Scrape websites using Cloudscraper or Selenium |
+| [chrome-stealer](https://github.com/CoreHub-lol/chrome-stealer) | XScripting Executor Template |
+| [NexusBD ](https://github.com/CoreHub-lol/NexusBD) | Nexus Bot Dashboard |
+| [NexusNG-CMD](https://github.com/CoreHub-lol/NexusNG-CMD) | AI-powered responses using the DeepSeek API |
+| [ReverseShellListener](https://github.com/CoreHub-lol/ReverseShellListener) | Basic ReverseShellLIstener for receiving and sending |
+| [PHP-ReverseShell](https://github.com/CoreHub-lol/PHP-ReverseShell) | PHP reverse shell(install on the server) |
 👉 **Explore more** → [GitHub Repos](https://github.com/corehuub)  
 
 ---
