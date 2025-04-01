@@ -24,7 +24,7 @@ CoreHub provides high-quality open-source project bases that accelerate developm
 | 🔗 Project | 🌟 Description | 💻 Tech Stack |
 |---------|--------------|-------------|
 | [NullBotnet](https://github.com/CoreHub-lol/NullBotnet) | C# Botnet Base Project | C#, .NET |
-| [WebScraperApp](https://github.com/CoreHub-lol/website-scrapper) | Scrape websites using Cloudscraper or Selenium | Python, JavaScript |
+| [WebScraperApp](https://github.com/CoreHub-lol/website-scrapper) | Scrape websites  | Python, JavaScript |
 | [chrome-stealer](https://github.com/CoreHub-lol/chrome-stealer) | Chrome autofill stealer, Roblox executor design | Python |
 | [NexusBD](https://github.com/CoreHub-lol/NexusBD) | Nexus Bot Dashboard | JavaScript, React |
 | [NexusNG-CMD](https://github.com/CoreHub-lol/NexusNG-CMD) | AI-powered responses using the DeepSeek API | Python, AI |
