@@ -1,4 +1,4 @@
-# TucoT9 - CoreHub
+#CoreHub
 
 **Open Source Collective | Decentralized Technologies | Developer Empowerment**
 
