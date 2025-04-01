@@ -28,7 +28,7 @@ CoreHub provides high-quality open-source project bases that accelerate developm
 | [chrome-stealer](https://github.com/CoreHub-lol/chrome-stealer) | Chrome autofill stealer, Roblox executor design | Python |
 | [NexusBD](https://github.com/CoreHub-lol/NexusBD) | Nexus Bot Dashboard | JavaScript, React |
 | [NexusNG-CMD](https://github.com/CoreHub-lol/NexusNG-CMD) | AI-powered responses using the DeepSeek API | Python, AI |
-| [ReverseShellListener](https://github.com/CoreHub-lol/ReverseShellListener) | Basic ReverseShellListener for receiving and sending | C#, Networking |
+| [ReverseShellListener](https://github.com/CoreHub-lol/ReverseShellListener) | Basic ReverseShellListener for receiving and sending | Python, Networking |
 | [PHP-ReverseShell](https://github.com/CoreHub-lol/PHP-ReverseShell) | PHP reverse shell  | PHP, Security |
 
 👉 **Explore more** → [GitHub Organization](https://github.com/CoreHub-lol)
