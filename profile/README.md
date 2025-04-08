@@ -30,6 +30,7 @@ CoreHub provides high-quality open-source project bases that accelerate developm
 | [NexusNG-CMD](https://github.com/CoreHub-lol/NexusNG-CMD) | AI-powered responses using the DeepSeek API | Python, AI |
 | [ReverseShellListener](https://github.com/CoreHub-lol/ReverseShellListener) | Basic ReverseShellListener for receiving and sending | Python, Networking |
 | [PHP-ReverseShell](https://github.com/CoreHub-lol/PHP-ReverseShell) | PHP reverse shell  | PHP, Security |
+| [DiscoGrab](https://github.com/CoreHub-lol/discograb) | Discord token and personal info grabber | Python |
 
 👉 **Explore more** → [GitHub Organization](https://github.com/CoreHub-lol)
 
