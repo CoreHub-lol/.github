@@ -82,7 +82,7 @@ We ❤️ community contributions! Here's how to get started:
 <div align="center">
   
 [![GitHub Organization Stars](https://img.shields.io/github/stars/CoreHub-lol?style=for-the-badge&label=Organization%20Stars&logo=github)](https://github.com/CoreHub-lol)
-[![Open source projects](https://img.shields.io/badge/Repositories-9+-blue?style=for-the-badge&logo=github)](https://github.com/orgs/CoreHub-lol/repositories)
+[![Open source projects](https://img.shields.io/badge/Repositories-11+-blue?style=for-the-badge&logo=github)](https://github.com/orgs/CoreHub-lol/repositories)
 [![GitHub Contributors](https://img.shields.io/badge/Contributors-Growing_Community-success?style=for-the-badge&logo=github)](https://github.com/CoreHub-lol)
   
 </div>
