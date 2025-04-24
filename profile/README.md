@@ -33,6 +33,7 @@ CoreHub provides high-quality open-source project bases that accelerate developm
 | [DiscoGrab](https://github.com/CoreHub-lol/discograb) | Discord token and personal info grabber | Python |
 | [EasyKaliLinux](https://github.com/CoreHub-lol/easykalilinux) | EasyKaliLinux is a terminal tool that simplifies using Kali Linux hacking tools | Python, Kali-Linux |
 | [KeySpy](https://github.com/corehub-lol/keyspy) | KeyAgent logs keys, captures screenshots, sends via Discord. | Python, webhook |
+| [Digispark collection](https://github.com/corehub-lol/digispark-scripts) | digispark script collection | C++, digispark script |
 
 👉 **Explore more** → [CoreHub.lol](https://CoreHub.lol)
 
