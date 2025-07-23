@@ -74,8 +74,9 @@ In this devlog, we present the new Digispark Collection and the first script cal
 | [PHP-ReverseShell](https://github.com/CoreHub-lol/PHP-ReverseShell) | PHP reverse shell  | PHP, Security |
 | [DiscoGrab](https://github.com/CoreHub-lol/discograb) | Discord token and personal info grabber | Python |
 | [EasyKaliLinux](https://github.com/CoreHub-lol/easykalilinux) | Terminal tool that simplifies using Kali Linux hacking tools | Python, Kali-Linux |
-| [KeySpy](https://github.com/corehub-lol/keyspy) | KeyAgent logs keys, captures screenshots, sends via Discord | Python, webhook |
+| [KeySpy](https://github.com/corehub-lol/keyspy) | KeySpy logs keys, captures screenshots, sends via Discord | Python, webhook |
 | [Digispark collection](https://github.com/corehub-lol/digispark-scripts) | Digispark script collection | C++, digispark script |
+| [PROT7](https://github.com/CoreHub-lol/PROT7) | layer 7 protection discord bot | Python, bot, protection |
 
 **Explore more** → [CoreHub.lol](https://CoreHub.lol)
 
